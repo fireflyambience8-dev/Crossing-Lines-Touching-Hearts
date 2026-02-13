@@ -1,4 +1,4 @@
-[crossing_lines_comic(1).html](https://github.com/user-attachments/files/25299097/crossing_lines_comic.1.html)
+[crossing_lines_comic.html](https://github.com/user-attachments/files/25299147/crossing_lines_comic.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
