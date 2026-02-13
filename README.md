@@ -1,6 +1,4 @@
-# Crossing-Lines-Touching-Hearts
-A Short-Story Infographic Comic about Adopting Radical Self-Love &amp; Taking Tiny Steps Towards Realizing A Shared Humanity Through Solidarity-Creating Dialogue, so that We Can Move Towards Creating a World Based on Unconditional Love
-[crossing_lines_comic.html](https://github.com/user-attachments/files/25296868/crossing_lines_comic.html)
+[crossing_lines_comic(1).html](https://github.com/user-attachments/files/25299097/crossing_lines_comic.1.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -599,10 +597,10 @@ A Short-Story Infographic Comic about Adopting Radical Self-Love &amp; Taking Ti
                     </div>
 
                     <div class="panel">
-                        <h3 class="panel-header">🏛️ The House of Friendship</h3>
+                        <h3 class="panel-header">🏛️ Curating Inclusive Venues</h3>
                         <div class="barrier-icon">🏡</div>
                         <p class="panel-content">
-                            Venues like The House of Friendship create <span class="highlight">spaces of belonging</span> where connections form through shared passion rather than status.
+                            Using <span class="highlight">creativity as a resource</span>, we can imagine and build venues that curate inclusivity and cross-cultural connections—spaces where belonging emerges from shared passion and authentic connection rather than status or conformity.
                         </p>
                     </div>
 
@@ -618,8 +616,11 @@ A Short-Story Infographic Comic about Adopting Radical Self-Love &amp; Taking Ti
 
             <!-- Conclusion -->
             <div class="conclusion">
+                <h3 style="font-family: 'Caveat', cursive; font-size: 2.2em; color: var(--deep-purple); text-align: center; margin-bottom: 25px;">
+                    My Key Take-Aways
+                </h3>
                 <p class="conclusion-text">
-                    "We are disconnected by our external environment—including our own bodies—from living in a society ingrained in hierarchies and divisions. But when we create spaces that honor individual differences and foster authentic connections based on shared humanity rather than socioeconomic status, we take <strong>tiny steps towards realizing a shared humanity</strong>."
+                    We are disconnected by our external environment—including our own bodies—from living in a society ingrained in conditional love and acceptance based on class and ability hierarchies and divisions. When we adopt radical self-love to change the relationship we have with our own bodies and collaborate towards creating spaces that honor individual differences and foster authentic connections based on shared humanity rather than body and class differences, we take <strong>tiny steps towards true liberation</strong>.
                 </p>
                 <div style="text-align: center; font-size: 3em; margin-top: 30px;">
                     💜 🌍 ✨
